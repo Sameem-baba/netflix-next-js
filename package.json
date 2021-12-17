@@ -6,9 +6,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.2",
+    "@tailwindcss/line-clamp": "^0.2.2",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "firebase": "^9.6.0",
+    "movie-trailer": "^2.1.0",
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-youtube": "^7.13.1",
+    "recoil": "^0.5.2",
+    "tailwind-scrollbar-hide": "^1.1.6"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
